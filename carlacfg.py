@@ -1,0 +1,1 @@
+CARLA_LIB_PATH ="C:/Users/Michele/Desktop/CARLA_0.9.10.1/WindowsNoEditor/PythonAPI"
